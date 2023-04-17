@@ -25,18 +25,6 @@
   
   <br>
 
-  <h3> 스택오버플로우 클론코딩 (팀 프로젝트) </h3>
- 
-  📎 <a href="https://github.com/codestates-seb/seb41_pre_017/tree/main">깃헙</a> 
-  | <a href="https://www.figma.com/file/PXqhHI3hyuYhvAjIE3M5QY/GOAT-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0-1">설계도</a> 
-  | <a href="https://leejoongwon.tistory.com/105">회고</a> 
-  
-  목표: 리엑트를 제외한 라이브러리 사용을 자제하며 기능을 직접 구현하여 실력향상 목적
-  
-  참여인원: FE 3명, BE 3명 총 6명이 참여
-  
-  담당 업무: 프로젝트 팀장, 프로젝트 설계&분석, 게시판, 질문, 댓글, 검색기능, 헤더, 사이드바, 텍스트 에디터
-  
 </div>
 
 
